@@ -1,0 +1,105 @@
+﻿D:\New folder (2)\New folder\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+cl : command line warning D9025: overriding '/sdl-' with '/GS-'
+cl : command line warning D9025: overriding '/sdl-' with '/GS-'
+  dll.cpp
+cl : command line warning D9025: overriding '/sdl-' with '/GS-'
+  dll_image.cpp
+cl : command line warning D9025: overriding '/sdl-' with '/GS-'
+  checksum_crc.cpp
+cl : command line warning D9025: overriding '/sdl-' with '/GS-'
+  dllmain.cpp
+  c_aimhelper.cpp
+  c_animation_system.cpp
+  c_antiaim.cpp
+  c_chams.cpp
+D:\New folder (2)\New folder\VC\Tools\MSVC\14.25.28610\include\tuple(615,76): warning C4244: '=': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty=float
+          ] (compiling source file hacks\c_aimhelper.cpp)
+D:\New folder (2)\New folder\VC\Tools\MSVC\14.25.28610\include\tuple(614): message : see reference to function template instantiation 'std::tuple<float> &std::tuple<float>::operator =<int,0>(std::tuple<int> &&) noexcept' being compiled (compiling source file hacks\c_aimhelper.cpp)
+D:\New folder (2)\New folder\VC\Tools\MSVC\14.25.28610\include\tuple(616): message : see reference to function template instantiation 'std::tuple<float> &std::tuple<float>::operator =<int,0>(std::tuple<int> &&) noexcept' being compiled (compiling source file hacks\c_aimhelper.cpp)
+D:\New folder (2)\New folder\VC\Tools\MSVC\14.25.28610\include\tuple(614): message : see reference to function template instantiation 'std::tuple<float,float> &std::tuple<float,float>::operator =<float,int,0>(std::tuple<float,int> &&) noexcept' being compiled (compiling source file hacks\c_aimhelper.cpp)
+D:\New folder (2)\New folder\VC\Tools\MSVC\14.25.28610\include\tuple(616): message : see reference to function template instantiation 'std::tuple<float,float> &std::tuple<float,float>::operator =<float,int,0>(std::tuple<float,int> &&) noexcept' being compiled (compiling source file hacks\c_aimhelper.cpp)
+D:\New folder (2)\New folder\VC\Tools\MSVC\14.25.28610\include\tuple(614): message : see reference to function template instantiation 'std::tuple<c_animation_system::animation *,float,float> &std::tuple<c_animation_system::animation *,float,float>::operator =<c_animation_system::animation*,float,int,0>(std::tuple<c_animation_system::animation *,float,int> &&) noexcept' being compiled (compiling source file hacks\c_aimhelper.cpp)
+D:\New folder (2)\New folder\VC\Tools\MSVC\14.25.28610\include\tuple(616): message : see reference to function template instantiation 'std::tuple<c_animation_system::animation *,float,float> &std::tuple<c_animation_system::animation *,float,float>::operator =<c_animation_system::animation*,float,int,0>(std::tuple<c_animation_system::animation *,float,int> &&) noexcept' being compiled (compiling source file hacks\c_aimhelper.cpp)
+C:\Users\Aron\Desktop\rifk7 2019\hacks\c_aimhelper.cpp(125): message : see reference to function template instantiation 'std::tuple<c_vector3d,c_animation_system::animation *,float,float> &std::tuple<c_vector3d,c_animation_system::animation *,float,float>::operator =<c_vector3d,c_animation_system::animation*,float,int,0>(std::tuple<c_vector3d,c_animation_system::animation *,float,int> &&) noexcept' being compiled
+C:\Users\Aron\Desktop\rifk7 2019\hacks\c_aimhelper.cpp(108): message : see reference to function template instantiation 'std::tuple<c_vector3d,c_animation_system::animation *,float,float> &std::tuple<c_vector3d,c_animation_system::animation *,float,float>::operator =<c_vector3d,c_animation_system::animation*,float,int,0>(std::tuple<c_vector3d,c_animation_system::animation *,float,int> &&) noexcept' being compiled
+  c_damageesp.cpp
+  c_esp.cpp
+  c_hitmarker.cpp
+  c_legitbot.cpp
+  c_miscellaneous.cpp
+  c_movement.cpp
+  c_prediction_system.cpp
+  c_ragebot.cpp
+  c_resolver.cpp
+  c_trace_system.cpp
+  grenade_predict.cpp
+  kit_parser.cpp
+  skin_changer.cpp
+  c_client.cpp
+  c_client_mode_shared.cpp
+  c_client_state_.cpp
+  c_cl_camera_height_restriction_debug.cpp
+  c_cl_csm_shadows.cpp
+  c_cs_player_.cpp
+  c_engine_client.cpp
+  c_engine_sound_.cpp
+  c_events.cpp
+  c_game_event_manager_.cpp
+  c_hooks.cpp
+  c_model_render_.cpp
+  c_net_channel_.cpp
+  c_panel_.cpp
+  c_prediction_.cpp
+  c_render_view_.cpp
+  c_smoke_grenade_projectile_.cpp
+  c_surface_.cpp
+  c_sv_cheats.cpp
+  c_view_render_.cpp
+  c_wnd_proc.cpp
+  engine_bsp.cpp
+  idirect3ddevice9.cpp
+  imgui_impl_dx9.cpp
+  imgui.cpp
+  imguicolorpicker.cpp
+  imgui_draw.cpp
+  c_menu.cpp
+  config.cpp
+  c_font.cpp
+  c_indicators.cpp
+  c_renderer.cpp
+  cte_blood.cpp
+  c_base_combat_weapon.cpp
+  c_base_tonecontrol.cpp
+  c_blood_predic.cpp
+  c_color.cpp
+  c_cs_player.cpp
+  c_global_vars_base.cpp
+  c_glow_object_manager.cpp
+  ice_key.cpp
+  c_surface.cpp
+  fnv1a.cpp
+  cod.cpp
+  doublekill.cpp
+  headshot.cpp
+  lasercpp.cpp
+  quadkill.cpp
+  quake.cpp
+  roblox.cpp
+  sounds.cpp
+  triplekill.cpp
+  uff.cpp
+  unreal.cpp
+  wicked.cpp
+  c_hotkeys.cpp
+  c_log.cpp
+  c_netvar.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+     Creating library ..\desync.lib and object ..\desync.exp
+  desync.vcxproj -> C:\Users\Aron\Desktop\rifk7 2019\..\desync.dll
